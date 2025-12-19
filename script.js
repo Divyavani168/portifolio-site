@@ -1,20 +1,3 @@
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f8ff;
-  text-align: center;
-  padding: 50px;
-}
-
-h1 {
-  color: #2e8b57;
-}
-
-button {
-  padding: 10px 20px;
-  font-size: 16px;
-  background-color: #2e8b57;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
+function showMessage() {
+  alert("Welcome to DivyaVani's DevOps Portfolio!");
 }
